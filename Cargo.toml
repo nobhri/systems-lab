@@ -1,3 +1,5 @@
 [workspace]
-members = []
+members = [
+    "experiments/memory/stack-vs-heap",
+]
 resolver = "2"
