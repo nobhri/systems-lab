@@ -7,5 +7,9 @@ name = "memory-allocation-deallocation"
 version = "0.1.0"
 
 [[package]]
+name = "memory-ownership-move"
+version = "0.1.0"
+
+[[package]]
 name = "memory-stack-vs-heap"
 version = "0.1.0"
