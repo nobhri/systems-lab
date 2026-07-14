@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "experiments/memory/allocation-deallocation",
+    "experiments/memory/ownership-move",
     "experiments/memory/stack-vs-heap",
 ]
 resolver = "2"
